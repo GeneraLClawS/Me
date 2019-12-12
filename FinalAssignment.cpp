@@ -66,7 +66,19 @@ int main()
   insert(root, "two Occurences");
   insert(root, "one"); 
   insert(root, "any string"); 
-  insert(root, "Software Engineering"); 
+  insert(root, "Software Engineering");
+  insert(root, "Computer Science");
+  insert(root, "Computer Science");
+  insert(root, "Computer Science");
+  insert(root, "Computer Science");
+  insert(root, "USB");
+  insert(root, "USB");
+  insert(root, "USB");
+  insert(root, "USB");
+  insert(root, "USB");
+  insert(root, "USB");
+  insert(root, "USB");
+  insert(root, "USB");
    
 	string word;
 	
